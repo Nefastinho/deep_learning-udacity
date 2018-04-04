@@ -1,1 +1,2 @@
-# deep_learning-udacity
+# Deep Learning Course by Udacity
+In progress
